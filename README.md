@@ -150,22 +150,23 @@ Python, SAP, HANA, React, Next.js
 
 ## 💼 Work Experience
 ### Accenture (Aug 2021 – Dec 2021)
-Application Development Team Lead, Pune, Maharashtra, India
-- Conducted training sessions for 40+ consultants on data structures & algorithms, HANA certification, and OData/REST API.
-- Managed and resolved production issues, mentoring team members, and maintaining a track record of high-quality work.
-
+#### Application Development Team Lead, Pune, Maharashtra, India
+- Led training for 40+ consultants on data structures, algorithms, HANA certification, OData/REST API, and provided mentoring to resolve production issues, ensuring high-quality work with OOP and SQL expertise.
+- 
 ### Capgemini Limited (Feb 2020 – Aug 2021)
-SAP S4 HANA Technical Consultant Lead, Pune, Maharashtra, India
-- Led a team of 17 technical consultants to deliver multiple successful projects and provided optimal solutions for new customer requirements.
+#### SAP S4 HANA Technical Consultant Lead, Pune, Maharashtra, India
+- Led a team of 17 technical consultants, delivering successful projects, receiving client appreciation and awards.
+- Provided optimal solutions and resolved critical production bugs, under rigorous deadlines.
 
 ### Infosys Limited (Sep 2015 – Feb 2020)
-Technology Analyst, Pune, Maharashtra, India
+#### Technology Analyst, Pune, Maharashtra, India (Jul 2019 - Feb 2020)
 - Resolved JIRA User stories, quickly learning and applying RTC/RQM automation suite, performance tuning tools, and SQL trace.
 
-Senior Software Engineer, Technical Consultant, Gothenburg, Sweden (Jul 2018 - Jul 2019)
+#### Senior Software Engineer, Technical Consultant, Gothenburg, Sweden (Jul 2018 - Jul 2019)
 - Implemented all stages of Software Development Life Cycle (SDLC) for multiple end-to-end implementations.
+- Gained on-site business experience in end-to-end Supplier Lifecycle Management with ChaRM and SolMan tools.
 
-Senior Software Engineer, Technical Developer, Pune, Maharashtra, India (Sep 2015 - Jun 2018)
+#### Senior Software Engineer, Technical Developer, Pune, Maharashtra, India (Sep 2015 - Jun 2018)
 - Implemented data exchange from Ariba systems to ERP systems using SOAP protocol (IDOCs and Proxy), Remote Function Calls (RFC), and AIF.
 
 ---

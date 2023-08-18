@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="40"/>
 </a>
 <!-- <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> -->
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Machine Learning" title="Machine Learning" height="40"/>
+<!--   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Machine Learning" title="Machine Learning" height="40"/> -->
 </a>
 
 ## 💬 Ask Me About

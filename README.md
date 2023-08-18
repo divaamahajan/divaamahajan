@@ -15,7 +15,7 @@
 </a>
 <!-- <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> -->
 <!--   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Machine Learning" title="Machine Learning" height="40"/> -->
-</a>
+<!-- </a> -->
 
 ## 💬 Ask Me About
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">

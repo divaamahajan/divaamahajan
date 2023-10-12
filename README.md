@@ -140,7 +140,7 @@
 ---
 
 
-## 🔧 Academic Projects
+## 🔧 Personal Projects
 - **[Course Connect](https://www.youtube.com/watch?v=_fyJaEMfhmY): Fault-Tolerant Distributed Full-Stack Web App**  
   Developed Python/Django MVT web app with AWS RDS Postgres integration, showcasing system design skills.
 

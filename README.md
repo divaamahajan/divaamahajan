@@ -4,7 +4,6 @@
 <p align="center">
   <a href="mailto:dm.divya.mahajan@gmail.com"><img src="https://img.shields.io/badge/Email-dm.divya.mahajan%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
   <a href="https://www.linkedin.com/in/dm-divyamahajan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-dm--divyamahajan-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/divaamahajan" target="_blank"><img src="https://img.shields.io/badge/GitHub-divaamahajan-blue?style=flat-square&logo=github" alt="GitHub"></a>
   <a href="https://divyamahajan.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-divyamahajan-blue?style=flat-square&logo=profile" alt="Portfolio"></a>
 </p>
 

@@ -1,10 +1,15 @@
+![](https://komarev.com/ghpvc/?username=divaamahajan)
+</br>
+</br>
+</br>
 <h1 align="center">Hi there, I'm Divya Mahajan 👋</h1>
 <h3 align="center">Passionate Full-Stack Developer | SAP Tech Lead with 6+ Years Experience</h3>
 
+
 <p align="center">
-  <a href="mailto:dm.divya.mahajan@gmail.com"><img src="https://img.shields.io/badge/Email-dm.divya.mahajan%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/dm-divyamahajan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-dm--divyamahajan-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://divyamahajan.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-divyamahajan-blue?style=flat-square&logo=profile" alt="Portfolio"></a>
+  <a href="mailto:dm.divya.mahajan@gmail.com"><img src="https://img.shields.io/badge/Email-dm.divya.mahajan%40gmail.com-3b5998?style=flat-square&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/dm-divyamahajan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-dm--divyamahajan-3b5998?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://divyamahajan.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-divyamahajan-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://divaamahajan.github.io/" alt="Portfolio"></a>
 </p>
 
 
@@ -194,6 +199,12 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divaamahajan&show_icons=true&locale=en&layout=compact" alt="divaamahajan" />
 </p>
 
-<p align="center">
+---
+
+## 🎧 What's Vibin?
+
+[![Spotify](spotify.svg)](https://open.spotify.com/user/31nmchvdspp4zeobx26kdmmbh6di)
+
+<!-- <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divaamahajan" alt="divaamahajan" />
-</p>
+</p> -->

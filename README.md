@@ -198,13 +198,3 @@
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divaamahajan&show_icons=true&locale=en&layout=compact" alt="divaamahajan" />
 </p>
-
----
-
-## 🎧 What's Vibin?
-
-[![Spotify](spotify.svg)](https://open.spotify.com/user/31nmchvdspp4zeobx26kdmmbh6di)
-
-<!-- <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divaamahajan" alt="divaamahajan" />
-</p> -->

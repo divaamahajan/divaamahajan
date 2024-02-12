@@ -47,20 +47,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" title="Next.js" height="40"/>
 </a>
 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="40"/>
-</a>
 
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes" height="40"/>
-</a>
-<a href="https://helm.sh/" target="_blank" rel="noreferrer">
-  <img src="https://helm.sh/img/helm.svg" alt="Helm Chart" title="Helm Chart" height="40"/>
-</a>
-
-<a href="https://memcached.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/memcached/memcached/master/doc/logo/memcached_logo_wordmark_full_color.svg" alt="Memcache" title="Memcache" height="40"/>
-</a>
 ## 🎓 Education
 - **Master of Science** in Computer Science Engineering  
   Santa Clara University, Santa Clara, CA, USA  
@@ -95,6 +82,23 @@
   </a>
 </p>
 
+
+<h3 align="left">Containerization and orchestration:</h3>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="40"/>
+</a>
+
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes" height="40"/>
+</a>
+<a href="https://helm.sh/" target="_blank" rel="noreferrer">
+  <img src="https://helm.sh/img/helm.svg" alt="Helm Chart" title="Helm Chart" height="40"/>
+</a>
+
+
+
+
 <h3 align="left">Web Development:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -114,7 +118,9 @@
   </a>
 </p>
 
-<h3 align="left">Databases:</h3>
+
+
+<h3 align="left">Databases and Caches:</h3>
 <p align="left">
   <a href="https://www.sap.com/" target="_blank" rel="noreferrer">
     <img src="https://www.techgoondu.com/wp-content/uploads/2015/05/S4_HANA_ASUGNEWS1-600x143.jpg" alt="SAP ABAP on HANA" title="SAP ABAP on HANA" height="40"/>
@@ -135,7 +141,14 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="40"/>
 </a>
+
+
+<a href="https://memcached.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/memcached/memcached/master/doc/logo/memcached_logo_wordmark_full_color.svg" alt="Memcache" title="Memcache" height="40"/>
+</a>
 </p>
+
+
 
 <h3 align="left">Cloud Technologies:</h3>
 <p align="left">
@@ -151,6 +164,8 @@
   </a>
 </p>
 
+
+
 <h3 align="left">Big Data:</h3>
 <p align="left">
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
@@ -163,6 +178,8 @@
     <img src="https://hadoop.apache.org/images/hadoop-logo.jpg" alt="HDFS" title="HDFS" height="40"/>
   </a>
 </p>
+
+
 
 <h3 align="left">Data Analysis:</h3>
 <p align="left">

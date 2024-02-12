@@ -20,13 +20,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="40"/>
 </a>
 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="40"/>
-</a>
-
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes" height="40"/>
-</a>
 
 <a href="https://golang.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" title="Golang" height="40"/>
@@ -54,6 +47,20 @@
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" title="Next.js" height="40"/>
 </a>
 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="40"/>
+</a>
+
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes" height="40"/>
+</a>
+<a href="https://helm.sh/" target="_blank" rel="noreferrer">
+  <img src="https://helm.sh/img/helm.svg" alt="Helm Chart" title="Helm Chart" height="40"/>
+</a>
+
+<a href="https://memcached.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/memcached/memcached/master/doc/logo/memcached_logo_wordmark_full_color.svg" alt="Memcache" title="Memcache" height="40"/>
+</a>
 ## 🎓 Education
 - **Master of Science** in Computer Science Engineering  
   Santa Clara University, Santa Clara, CA, USA  

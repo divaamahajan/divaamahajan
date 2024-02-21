@@ -15,9 +15,9 @@
 
 ---
 
-
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divaamahajan&size_weight=1&count_weight=0&layout=compact&langs_count=25)](https://github.com/divaamahajan/github-readme-stats) -->
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divaamahajan&show_icons=true&locale=en&layout=compact" alt="divaamahajan" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divaamahajan&layout=compact&langs_count=25" alt="divaamahajan" />
 </p>
 <div style="display: flex; ">
 
@@ -38,7 +38,8 @@
 <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" title="RabbitMQ" height="40"/>
 </a>
-    
+
+---
 ### 💬 Ask Me About
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" height="40"/>
@@ -54,6 +55,10 @@
 </a>
   
 </div>
+
+</br>
+</br>
+</br>
 
 ## 🎓 Education
 - **Master of Science** in Computer Science Engineering  

@@ -15,7 +15,13 @@
 
 ---
 
-## 🌱 Currently Learning
+
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divaamahajan&show_icons=true&locale=en&layout=compact" alt="divaamahajan" />
+</p>
+<div style="display: flex; ">
+
+### 🌱 Currently Learning
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="40"/>
 </a>
@@ -32,8 +38,8 @@
 <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" title="RabbitMQ" height="40"/>
 </a>
-
-## 💬 Ask Me About
+    
+### 💬 Ask Me About
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" height="40"/>
 </a>
@@ -46,7 +52,8 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" title="Next.js" height="40"/>
 </a>
-
+  
+</div>
 
 ## 🎓 Education
 - **Master of Science** in Computer Science Engineering  
@@ -248,7 +255,3 @@
 - Implemented data exchange from Ariba systems to ERP systems using SOAP protocol (IDOCs and Proxy), Remote Function Calls (RFC), and AIF.
 
 ---
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divaamahajan&show_icons=true&locale=en&layout=compact" alt="divaamahajan" />
-</p>

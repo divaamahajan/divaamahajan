@@ -5,7 +5,6 @@
 <h1 align="center">Hi there, I'm Divya Mahajan 👋</h1>
 <h3 align="center">Passionate Full-Stack Developer | SAP Tech Lead with 6+ Years Experience</h3>
 
-
 <p align="center">
   <a href="mailto:dm.divya.mahajan@gmail.com"><img src="https://img.shields.io/badge/Email-dm.divya.mahajan%40gmail.com-3b5998?style=flat-square&logo=gmail" alt="Email"></a>
   <a href="https://www.linkedin.com/in/dm-divyamahajan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-dm--divyamahajan-3b5998?style=flat-square&logo=linkedin" alt="LinkedIn"></a>

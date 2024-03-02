@@ -305,17 +305,17 @@
 ---
 
 ## 💼 Work Experience
-### <img src="https://banner2.cleanpng.com/20180427/tdw/kisspng-accenture-symbol-logo-management-consulting-high-intelligence-5ae346bf53e324.0577692915248442233436.jpg" alt="Accenture Logo" height="50"/> Accenture (Aug 2021 – Dec 2021)
+### <img src="https://banner2.cleanpng.com/20180427/tdw/kisspng-accenture-symbol-logo-management-consulting-high-intelligence-5ae346bf53e324.0577692915248442233436.jpg" alt="Accenture Logo" height="20"/> Accenture (Aug 2021 – Dec 2021)
 
 #### Application Development Team Lead, Pune, Maharashtra, India
 - Led training for 40+ consultants on data structures, algorithms, HANA certification, OData/REST API, and provided mentoring to resolve production issues, ensuring high-quality work with OOP and SQL expertise.
  
-###  <img src="https://banner2.cleanpng.com/20180401/wfe/kisspng-capgemini-sogeti-engineering-information-industry-blockchain-5ac0a0f85f2bd0.5897938315225735603898.jpg" alt="Capgemini Logo" height="50"/>  Capgemini Limited (Feb 2020 – Aug 2021)
+###  <img src="https://banner2.cleanpng.com/20180401/wfe/kisspng-capgemini-sogeti-engineering-information-industry-blockchain-5ac0a0f85f2bd0.5897938315225735603898.jpg" alt="Capgemini Logo" height="20"/>  Capgemini Limited (Feb 2020 – Aug 2021)
 #### SAP S4 HANA Technical Consultant Lead, Pune, Maharashtra, India
 - Led a team of 17 technical consultants, delivering successful projects, receiving client appreciation and awards.
 - Provided optimal solutions and resolved critical production bugs, under rigorous deadlines.
 
-###  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Infosys_logo.svg/1280px-Infosys_logo.svg.png" alt="Infosys Logo" height="50"/>  Infosys Limited (Sep 2015 – Feb 2020)
+###  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Infosys_logo.svg/1280px-Infosys_logo.svg.png" alt="Infosys Logo" height="20"/>  Infosys Limited (Sep 2015 – Feb 2020)
 #### Technology Analyst, Pune, Maharashtra, India (Jul 2019 - Feb 2020)
 - Resolved JIRA User stories, quickly learning and applying RTC/RQM automation suite, performance tuning tools, and SQL trace.
 

@@ -46,6 +46,9 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" height="50"/>
 </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" title="AWS" height="50"/>
+        </a>
 <a href="https://www.sap.com/" target="_blank" rel="noreferrer">
   <img src="https://www.techgoondu.com/wp-content/uploads/2015/05/S4_HANA_ASUGNEWS1-600x143.jpg" alt="SAP ABAP on HANA" title="SAP ABAP on HANA" height="50"/>
 </a>
@@ -80,7 +83,10 @@
   </td>
     <td valign="top">
 ## 🏆 Certifications
-- [SAP Certified Development Specialist - ABAP for SAP HANA 2.0](https://www.credly.com/badges/1f2ddfaf-1c40-4b03-b521-f16db7ed15c3?source=linked_in_profile)  
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/d15c66de-9a1a-4803-a0f2-2a320bca5d79/public_url)  
+  Issued by  Amazon Web Services Training and Certification
+
+- [SAP Certified Development Specialist - ABAP for SAP HANA 2.0](https://www.credly.com/badges/1f2ddfaf-1c40-4b03-b521-f16db7ed15c3/public_url)  
   Issued by SAP
 
 - [Agile Software Development Course](https://www.coursera.org/account/accomplishments/certificate/7SXGF3DALLU3)  
